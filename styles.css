@@ -261,3 +261,33 @@ a {
 	font-size: 40px;
 	font-family: "Lucida Console", monospace;
 }
+
+.custom {
+	 background-image: url("photos/watercolorbackground3.jpeg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+	position: relative;
+	top: 120px; left: center;
+}
+
+.custom-info {
+	text-align: center;
+}
+
+.all {
+	 background-image: url("photos/watercolorbackground3.jpeg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+	position: relative;
+	top: 120px; left: center;
+	text-align: center;
+}
+
+.cover-photo img {
+	width: 600px;
+	height: 450px;
+}
