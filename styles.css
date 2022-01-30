@@ -291,3 +291,14 @@ a {
 	width: 600px;
 	height: 450px;
 }
+
+.footer {
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+        padding: 20px;
+        height: 100px;
+        background-color: #FFE4E1;
+
+}
+
